@@ -1,0 +1,6 @@
+article_id,title,content,tags,category
+KB001,Resetting Your Account Password,"If you forgot your password, click on 'Forgot Password' on the login page. Follow the link sent to your registered email to reset your password. Ensure the new password is at least 8 characters long.","password, login, reset",Account
+KB002,Updating Billing Information,"To update your billing information, go to 'Account Settings' and select 'Billing'. You can edit your card details, billing address, and payment preferences here.","billing, payment, update",Billing
+KB003,Troubleshooting Login Errors,"If you experience login issues, try clearing your browser cache and cookies. Ensure caps lock is off and your username is correct. If the problem persists, reset your password or contact support.","login, troubleshooting, browser",Technical
+KB004,Changing Your Email Address,"You can change your email address by navigating to 'Profile' and selecting 'Change Email'. Enter the new address and verify through the confirmation email sent to you.","account, email, profile",Account
+KB005,Canceling Your Subscription,"To cancel your subscription, open 'Account Settings' → 'Subscription' → 'Cancel Plan'. Follow the prompts to confirm. Your account will remain active until the end of the billing cycle.","cancel, subscription, billing",Billing

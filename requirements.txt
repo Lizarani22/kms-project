@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+passlib[bcrypt]
+pandas
+sqlite3
+langchain
+langchain-community
+chromadb
+sentence-transformers
