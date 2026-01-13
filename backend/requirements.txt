@@ -4,3 +4,4 @@ uvicorn
 requests
 passlib[bcrypt]
 pandas
+python-jose[cryptography]
