@@ -4,7 +4,3 @@ uvicorn
 requests
 passlib[bcrypt]
 pandas
-langchain
-langchain-community
-chromadb
-sentence-transformers
