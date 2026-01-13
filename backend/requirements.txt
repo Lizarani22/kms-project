@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-streamlit
+
 requests
 passlib[bcrypt]
 pandas
