@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://kms-project-backend.onrender.com"
 
 st.set_page_config(page_title="🤖 KMS", layout="wide")
 
