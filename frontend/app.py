@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 from datetime import datetime
 
+API_BASE = "https://kms-project-txdk.onrender.com"
 
-API_BASE = "https://kms-project-backend.onrender.com"
 
 st.set_page_config(page_title="🤖 KMS", layout="wide")
 
